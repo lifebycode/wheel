@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartBtnSkin" width="50" height="25" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16e30c588d3" ></w:Config>
+	<e:Label text="start_label" x="0.33" y="0.5" anchorOffsetX="0" width="49.67" anchorOffsetY="0" height="24" textColor="0x1899e2" size="15"/>
+</e:Skin>

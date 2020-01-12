@@ -1,0 +1,211 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,migrant-start-bg_png,migrant-start-bg_jpg,migrant-game-bg_jpg,groundLayer1_png,bg-winter_png,operation_png,operation-path_png,boon_tex_png,boon_tex_json,boon_ske_json,bird_ske_json,bird_tex_json,bird_tex_png,back_list_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "migrant-start-bg_png",
+			"type": "image",
+			"url": "assets/migrant-start-bg.png"
+		},
+		{
+			"name": "migrant-start-bg_jpg",
+			"type": "image",
+			"url": "assets/migrant-start-bg.jpg"
+		},
+		{
+			"name": "migrant-game-bg_jpg",
+			"type": "image",
+			"url": "assets/migrant-game-bg.jpg"
+		},
+		{
+			"name": "groundLayer1_png",
+			"type": "image",
+			"url": "assets/groundLayer1.png"
+		},
+		{
+			"name": "bg-winter_png",
+			"type": "image",
+			"url": "assets/background/bg-winter.png"
+		},
+		{
+			"name": "operation_png",
+			"type": "image",
+			"url": "assets/background/operation.png"
+		},
+		{
+			"name": "operation-path_png",
+			"type": "image",
+			"url": "assets/background/operation-path.png"
+		},
+		{
+			"name": "boon_tex_png",
+			"type": "image",
+			"url": "assets/boom/boon_tex.png"
+		},
+		{
+			"name": "boon_tex_json",
+			"type": "json",
+			"url": "assets/boom/boon_tex.json"
+		},
+		{
+			"name": "boon_ske_json",
+			"type": "json",
+			"url": "assets/boom/boon_ske.json"
+		},
+		{
+			"name": "bird_ske_json",
+			"type": "json",
+			"url": "assets/bird/bird_ske.json"
+		},
+		{
+			"name": "bird_tex_json",
+			"type": "json",
+			"url": "assets/bird/bird_tex.json"
+		},
+		{
+			"name": "bird_tex_png",
+			"type": "image",
+			"url": "assets/bird/bird_tex.png"
+		},
+		{
+			"name": "back_list_json",
+			"type": "sheet",
+			"url": "assets/background/back_list.json",
+			"subkeys": "tree12,tree13,castle,castle_wall,cloud1,cloud2,cloud3,cloud4,cloud5,cloud6,cloud7,cloud8,cloud9,clouds1,clouds2,fence,fence_piece,grass1,grass2,hills1,hills2,house_front_short,house_front_tall,house_side_short,house_side_tall,mountain1,mountain2,mountain3,piramid,pointy_mountains,sky,temple,tower,tree01,tree02,tree03,tree04,tree05,tree06,tree07,tree08,tree09,tree10,tree11"
+		}
+	]
+}
